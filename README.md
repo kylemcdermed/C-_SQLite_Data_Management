@@ -7,7 +7,7 @@ and deleting records in the database.
 The application serves as a foundational example of integrating 
 SQLite with C++ for basic database operations.
 
-Features
+Features --
 Insert New Data: Users can 
 enter their name, 
 roll number, 
@@ -26,7 +26,7 @@ or email based on the record's ID.
 
 Delete a Record: Remove a user record from the database after user confirmation.
 
-Technologies Used
+Technologies Used -- 
 C++
 SQLite3
 Standard Input/Output Libraries
