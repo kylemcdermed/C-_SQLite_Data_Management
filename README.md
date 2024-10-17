@@ -1,4 +1,3 @@
-Overview
 This C++ application provides a simple command-line interface for managing user data stored in a SQLite database. 
 Users can perform operations such as 
 inserting, 
